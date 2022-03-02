@@ -13,6 +13,7 @@ I have experience in building reliable micro services in a distributed system
   <img src="https://api.iconify.design/logos:python.svg" alt="python" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgres" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:gopher.svg" alt="go" width="32" height="32"/>
+  <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="32" height="32"/>
   <img src="https://api.iconify.design/fa:git-square.svg" alt="git" width="32" height="32"/>
 </p>
